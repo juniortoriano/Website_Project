@@ -39,7 +39,7 @@
 }
 
 .dropdown .dropbtn {
-    font-size: 16px;    
+    font-size: 16px;
     border: none;
     outline: none;
     color: white;
@@ -89,32 +89,37 @@ var d = new Date();
 document.getElementById("demo").innerHTML = d;
 </script>
 
-
-
 <div class="navbar">
-  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Index.html#news">Home</a>
-  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/More%20about%20me.html">More about me</a>
-  <a href= "file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Gallery.html"> Gallery </a>
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Index.html">Home</a>
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/History.html">History</a>
+  <a href= "file:///Users/juniortoriano/Desktop/Website%20Project/Gallery.html"> Gallery</a>
   <div class="dropdown">
-    <button class="dropbtn">Units Covered
+    <button class="dropbtn">Notable Places
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%202.html">Unit 2</a>
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%203.html">Unit 3</a>
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%204.html">Unit 4</a>
-  	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%205.html">Unit 5</a>
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%206.html">Unit 6</a>
-	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%207.html">Unit 7</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Coyote.html">Coyote Hills</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Niles.html">Downtown Niles</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MissionPeak.html">Mission Peak</a>
+  	  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MSJ.html">Mission San Jose Church</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/PacCom.html">Pacific Commons</a>
     </div>
-  </div> 
+  </div>
 </div>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
 	<h1><p style="text-align: center;"">Downtown Niles</p></h1>
 	    <p>The downtown area of the Niles district is one of the most popular places for tourists to visit in Frmeont. The ambience of the city is very old since the origins of the district itself is old. The center attraction of the downtown area is the popular train track. It is a very popular place to visit for many people of all ages to take pictures and learn about the history of the town. Along the street, there are many old shops and restaurants that continue the old vibes of Niles.</p>
 	    <a href="http://www.niles.org/"><img src="http://scottgharrison.homestead.com/Niles_Fremont.JPG" alt="Nles" width="600" height="475"class="center"></a>
 	<h2><p style="text-align: center;"">A Brief History</p></h2>
-	    <p>Niles was established in the 1850s and was a junction point of the <a href="https://en.wikipedia.org/wiki/Southern_Pacific_Transportation_Company" style="color:red">Southern Pacific Railroad</a> lines from Oakland to San Jose and southern coastal points. Vallejo’s Mill was the first flourishing flour mill constructed and completed in this country. It was run by water conducted in a long flume from Alameda Creek. Niles at one time was noted for the location of the California Nursery, the largest nursery in California, with the largest rose plantation in the state.</p> 
+	    <p>Niles was established in the 1850s and was a junction point of the <a href="https://en.wikipedia.org/wiki/Southern_Pacific_Transportation_Company" style="color:red">Southern Pacific Railroad</a> lines from Oakland to San Jose and southern coastal points. Vallejo’s Mill was the first flourishing flour mill constructed and completed in this country. It was run by water conducted in a long flume from Alameda Creek. Niles at one time was noted for the location of the California Nursery, the largest nursery in California, with the largest rose plantation in the state.</p>
 	    <p>In 1912, Essanay Studios was at the height of its movie making fame. The studio, owned by <a href="https://en.wikipedia.org/wiki/Broncho_Billy_Anderson" style="color:red">Gilbert M. “Broncho Billy” Anderson</a> and his partner George Spoor, made famous movies of the time starring Charlie Chaplin, Wallace Beery, and Ben Turpin. Many cowboy adventures were filmed through Niles Canyon and along the main streets of Niles. The towns of Niles, Mission San Jose, Centerville, Irvington, and Warm Springs were incorporated into the City of Fremont in 1956.</p>
 	        <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Gilbert_M_Anderson_broncho_billy_magazine_july_dec_1913.jpg/220px-Gilbert_M_Anderson_broncho_billy_magazine_july_dec_1913.jpg" alt="Bronco Billy" width="400" height="500"class="center"></a>
 	    <p>Today Fremont’s Niles District is famous for its historic shopping district, Wildflower Festival, Niles Essanay Silent Film Festival and Museum, its annual Antique Fair, and the Niles Canyon Railway. Watch Niles as the community continues to show off a captivating historic character, a family atmosphere, and a friendly shopping experience.</p>
