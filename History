@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<font color="white">
+   <title>
+		History
+   </title>
+  </head>
+  <body background="https://wallpaper-house.com/data/out/9/wallpaper2you_362739.jpg">
+	<h1>
+	<p style="
+	text-transform: uppercase;
+	text-align: center;""
+	>
+		History of Fremont
+	</p>
+	</h1>
+
+		<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+
+
+<div class="navbar">
+  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Index.html#news">Home</a>
+  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/More%20about%20me.html">More about me</a>
+  <a href= "file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Gallery.html"> Gallery </a>
+  <div class="dropdown">
+    <button class="dropbtn">Units Covered
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%202.html">Unit 2</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%203.html">Unit 3</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%204.html">Unit 4</a>
+  	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%205.html">Unit 5</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%206.html">Unit 6</a>
+	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%207.html">Unit 7</a>
+    </div>
+  </div> 
+</div>
+
+
+<!--Change the above internal css so that it corresponds to the other pages--></p>
+
+
+
+
+
+<h1> History of Fremont </h1>
+    <p> The recorded history of the Fremont area began on June 6, 1795, when <a href="http://missionsanjose.org/" style="color:red">Mission San José</a> was founded by the Spaniard Father Fermin de Lasuen. The Mission was established at the site of the Ohlone village of Oroysom. On their second day in the area, the Mission party killed a grizzly bear in Niles Canyon. The first English-speaking visitor to Fremont was the renowned trapper and explorer Jedediah Smith in 1827. The Mission prospered, eventually reaching a population of 1,887 inhabitants in 1831. The influence of the missionaries declined after 1834, when the Mexican government enacted secularization.</p>
+    <p>José de Jesus Vallejo, brother of Mariano Vallejo, was the grantee of the Rancho Arroyo de la Alameda Mexican land grant. His family was influential in the Fremont area in the late colonial era, and owned and built a flour mill at the mouth of Niles Canyon. In 1846 the town's namesake John C. Frémont led a military expedition to map a trail through Mission Pass for reaching the Pacific coast and to take possession of California from Mexico for the United States.</p>
+        	<div class="container">
+        	<a href="https://www.battlefields.org/learn/biographies/john-c-fr%C3%A9mont"><img src="https://www.battlefields.org/sites/default/files/styles/scale_crop_380x370/public/thumbnails/image/John%20C%20Fremont.jpg?itok=VWzoFP41" alt="John C. Fremont" width="500" height="475"class="center"></a>   
+            <div class="overlay">This John C. Fremont. He is the founder of the city and the person to which it is named after</div>
+            </div>
+            <p style= "text-align: center;">Hover and Click Me!
+            
+            <!--Figure out how to get this into the center of the screen-->
+            
+    <p>The Fremont area grew rapidly at the time of the <a href="https://www.history.com/topics/westward-expansion/gold-rush-of-1849" style="color:red"> California Gold Rush </a>. A town called Mission San José grew up around the old mission, with its own post office from 1850. Agriculture dominated the economy with grapes, nursery plants and olives as leading crops. In 1868 the 6.8-magnitude Hayward earthquake on the Hayward Fault collapsed buildings throughout the Fremont area, ruining Mission San José and its outbuildings. Until the 1906 San Francisco earthquake caused its destruction, the Fremont area's Palmdale Winery was the largest in California. The ruins of the Palmdale Winery are still visible near the Five Corners in Irvington.</p>
+    <p>From 1912 to 1915 the Niles section of the Fremont area was the earliest home of California's motion picture industry. Charlie Chaplin filmed several movies in the Fremont area, most notably <a href="https://en.wikipedia.org/wiki/The_Tramp_(film)" style="color:red"> The Tramp</a>.</p>
+            <div class="container">
+            <a href="https://www.charliechaplin.com/"><img src="https://cdn1-www.comingsoon.net/assets/uploads/2018/04/chaplin.jpg" alt="Charlie Chaplin" width="600" height="475"class="center"></a>
+            <div class="overlay">This Charlie Chaplin. He is arguebly one of the most notable actors and residents of Fremont</div>
+            </div>
+            <p style= "text-align: center;">Hover and Click Me!
+            
+            <!-- Figure out how to center it-->    
+        
+<h2> Geography </h2>
+    <p>Nestled between the East Bay rolling hills and the San Francisco Bay were five small, independent towns—Centerville, Niles, Irvington, Mission San José, and Warm Springs. These towns were annexed into a single new, incorporated city called Fremont in 1956. Six decades later, these places have greatly expanded, are no longer separate communities, and are considered districts or community plan areas of the City of Fremont. The town of <a href="http://www.newark.org/" style="color:red">Newark</a> was originally slated to join the annex but ultimately its voters declined; Newark became its own incorporated city in 1955. Since incorporation, Fremont has created six more districts, which it calls "community plan areas" for planning purposes. These include Central, North Fremont, South Fremont, and Bayside. The two other districts, Baylands and the Hill Areas, are primarily open space.</p>
+             <img src="https://www.fremont.gov/ImageRepository/Document?documentID=32272" alt="Fremont Map" width="600" height="475"class="center"></a>
+<h3>Demographics</h3>
+    <p>Thanks in large part to a substantial influx of Afghans granted asylum in the United States following the 1979 invasion of Afghanistan by the Soviet Union, Fremont is the home to the largest concentration of Afghan Americans in the United States. This is noted in Khaled Hosseini's 2003 novel Kite Runner. In addition, Fremont has a notable concentration of Asian Indians, predominantly employed in Silicon Valley's technology sector. Among the Asian community of Fremont, the largest ethnic groups are Chinese, Indians, and Filipinos. Fremont and nearby Union City have fairly large numbers of Pacific Islanders, Cubans and Puerto Ricans, Spanish and Portuguese, and a small number of American Indians. Fremont also has a large Deaf community, in large part because it is home of the Northern California campus of the <a href="https://www.csdeagles.com/" style="color:red">California School for the Deaf</a>. The school district is called the Fremont Unified School District which also serves parts of Union City and Hayward. There were 68,237 households out of which 40.2% had children under the age of 18 living with them, 62.7% were married couples living together, 9.2% had a female householder with no husband present, and 23.5% were non-families. 16.5% of all households were made up of individuals and 4.1% had someone living alone who was 65 years of age or older. The average household size was 2.96 and the average family size was 3.34. In the city, the population was spread out with 25.8% under the age of 18, 7.7% from 18 to 24, 36.8% from 25 to 44, 21.4% from 45 to 64, and 8.3% who are 65 years of age or older. The median age is 34 years. For every 100 females, there were 101.1 males. For every 100 females age 18 and over, there were 99.2 males.</p>
+	        <img src="http://caringeconomy.org/wp-content/uploads/2014/11/CE-Club-Fremont-780x351.jpg" alt="Fremont Map" width="900" height="475"class="center"></a>
+	<style><* {box-sizing: border-box;}
+
+.container {
+  position: relative;
+  width: 50%;
+  max-width: 300px;
+}
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5); /* Black see-through */
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  text-align: center;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+</style>
