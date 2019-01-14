@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<font color="white">
+   <title>
+		Mission San Jose
+   </title>
+  </head>
+  <body background="https://wallpaper-house.com/data/out/9/wallpaper2you_362739.jpg">
+	<h1>
+	<p style="
+	text-transform: uppercase;
+	text-align: center;""
+	>
+		Mission San Jose
+	</p>
+	</h1>
+
+		<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+
+
+<div class="navbar">
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Index.html">Home</a>
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/History.html">History</a>
+  <a href= "file:///Users/juniortoriano/Desktop/Website%20Project/Gallery.html"> Gallery</a>
+  <div class="dropdown">
+    <button class="dropbtn">Notable Places
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Coyote.html">Coyote Hills</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Niles.html">Downtown Niles</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MissionPeak.html">Mission Peak</a>
+  	  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MSJ.html">Mission San Jose Church</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/PacCom.html">Pacific Commons</a>
+    </div>
+  </div>
+</div>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+	<h1><p style="text-align: center;"">Mission San Jose</p></h1>
+    <p>Mission San Jose is a popular Roman Caholic Church that was founded during the establishment of the city itself. It is one of the most notable cultural icons of the city and many people come to visit not only to look around, but to preach the word of the lord! In addition to being a church, Mission San Jose also acts as a Catholic school for the youth.</p>
+      <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Mission_San_Jose_April_2011_001.jpg/1200px-Mission_San_Jose_April_2011_001.jpg" alt="Mission San Jose" width="600" height="500"class="center"></a>
+  <h2><p style="text-align: center;"">History</p></h2>
+    <p>Mission San Jose was founded on June 11, 1797 by Father Fermin Francisco de Lasuen on a site which was part of a natural highway by way of the Livermore Valley to the San Joaquin Valley. It is the fourteenth of the 21 Spanish Missions in Alta California. They were founded to secure Spain's claim to this land and to teach the native people Christianity and the Spanish way of life.</p>
+    <p>A fully developed mission was a self-sustaining village. It was occupied by local natives, a few soldiers, several artisans with families, and one or two priests. According to Spanish law, the mission's lands and resources belonged to the natives and would be put in their control when they had learned to manage themselves in the Spanish way.</p>
+    <p>The site chosen for the only mission on the east side of San Francisco Bay had been inhabited for countless generations by the Ohlone Indians. Their village at this site was known as Orisom. The Ohlones lived close to the land in harmony with nature, taking what they needed for their sustenance but never wasting irreplaceable resources. What we could call ecology was a way of life for them. Their food included seeds, roots, berries, acorn meal, small game and seafood. Three years after the founding of Mission San Jose, several hundred Ohlones had come to live at the Mission. They were introduced to a new way of life by the Spanish Franciscan missionaries. Thousands of cattle roamed the mission ranges. Acres of wheat and other crops were planted and harvested under the direction of the padres.</p>
+      <a><img src="https://californiathroughmylens.com/wp-content/uploads/2016/05/Mission-San-Jose-10-640x427.jpg" alt="Mission Church" width="700" height="500"class="center"></a>
+  <h3><p style="text-align: center;"">Timeline</p></h3>
+    <p>June 11, 1797 - Mission San Jose founded by Padre Fermin Francisco de Lasuen.</p>
+    <p>1809 - Adobe brick and redwood timber Mission Church dedicated.</p>
+    <p>1868 - Earthquake destroyed adobe church and many nearby buildings. West wing which housed the convento was left standing. It contains the present Mission San Jose Museum.</p>
+    <p>1982 - Commencement of reconstruction of Mission San Jose adobe church as it appeared in the 1830s.</p>
+    <p>1985 - Reconstructed adobe church completed.</p>
+    <p>2001-2002 - The museum building was seismically retrofitted.</p>
+      <a><img src="http://californiamissionguide.com/wp-content/uploads/mission-san-jose.jpg" alt="MSJ" width="700" height="500"class="center"></a>
