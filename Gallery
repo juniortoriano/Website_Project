@@ -39,7 +39,7 @@
 }
 
 .dropdown .dropbtn {
-    font-size: 16px;    
+    font-size: 16px;
     border: none;
     outline: none;
     color: white;
@@ -89,25 +89,33 @@ var d = new Date();
 document.getElementById("demo").innerHTML = d;
 </script>
 
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
 
 <div class="navbar">
-  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Index.html#news">Home</a>
-  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/More%20about%20me.html">More about me</a>
-  <a href= "file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Gallery.html"> Gallery </a>  
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Index.html">Home</a>
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/History.html">History</a>
+  <a href= "file:///Users/juniortoriano/Desktop/Website%20Project/Gallery.html"> Gallery</a>
   <div class="dropdown">
-    <button class="dropbtn">Units Covered
+    <button class="dropbtn">Notable Places
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%202.html">Unit 2</a>
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%203.html">Unit 3</a>
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%204.html">Unit 4</a>
-  	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%205.html">Unit 5</a>
-      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%206.html">Unit 6</a>
-	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%207.html">Unit 7</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Coyote.html">Coyote Hills</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Niles.html">Downtown Niles</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MissionPeak.html">Mission Peak</a>
+  	  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MSJ.html">Mission San Jose Church</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/PacCom.html">Pacific Commons</a>
     </div>
-  </div> 
+  </div>
 </div>
+
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -194,12 +202,12 @@ img {vertical-align: middle;}
 }
 
 @-webkit-keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
 @keyframes fade {
-  from {opacity: .4} 
+  from {opacity: .4}
   to {opacity: 1}
 }
 
@@ -250,10 +258,10 @@ img {vertical-align: middle;}
 <br>
 
 <div style="text-align:center">
-  <span class="dot" onclick="currentSlide(1)"></span> 
-  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(1)"></span>
+  <span class="dot" onclick="currentSlide(2)"></span>
   <span class="dot" onclick="currentSlide(3)"></span>
-  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(4)"></span>
   <span class="dot" onclick="currentSlide(5)"></span>
 </div>
 
@@ -273,15 +281,15 @@ function showSlides(n) {
   var i;
   var slides = document.getElementsByClassName("mySlides");
   var dots = document.getElementsByClassName("dot");
-  if (n > slides.length) {slideIndex = 1}    
+  if (n > slides.length) {slideIndex = 1}
   if (n < 1) {slideIndex = slides.length}
   for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";  
+      slides[i].style.display = "none";
   }
   for (i = 0; i < dots.length; i++) {
       dots[i].className = dots[i].className.replace(" active", "");
   }
-  slides[slideIndex-1].style.display = "block";  
+  slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 }
 </script>
