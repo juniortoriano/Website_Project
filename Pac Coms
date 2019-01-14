@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<font color="white">
+   <title>
+		Pacific Commons
+   </title>
+  </head>
+  <body background="https://wallpaper-house.com/data/out/9/wallpaper2you_362739.jpg">
+	<h1>
+	<p style="
+	text-transform: uppercase;
+	text-align: center;""
+	>
+		Pacific Commons
+	</p>
+	</h1>
+
+		<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+
+
+<div class="navbar">
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Index.html">Home</a>
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/History.html">History</a>
+  <a href= "file:///Users/juniortoriano/Desktop/Website%20Project/Gallery.html"> Gallery</a>
+  <div class="dropdown">
+    <button class="dropbtn">Notable Places
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Coyote.html">Coyote Hills</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Niles.html">Downtown Niles</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MissionPeak.html">Mission Peak</a>
+  	  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MSJ.html">Mission San Jose Church</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/PacCom.html">Pacific Commons</a>
+    </div>
+  </div>
+</div>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+	<h1><p style="text-align: center;"">Pacific Commons</p></h1>
+    <p>At the moment, Pacific Commons is probably the most popular spot in all of Fremont. The place is always packed and under constant renovation. There are many new buildings and restaurants that are being introduced. In fact, Pacific Commons is actually the old name of the area as it is now commonly referred to as "The Block." Here, people are always busy shopping, watching movies, eating, or just hanging out. It is a complete thrill just to be here!</p>
+      <a><img src="http://www.catellus.com/uploads/projects/pacific-commons-banner.jpg" alt="Pacific Commons" width="1000" height="400"class="center"></a>
+  <h2><p style="text-align: center;"">History</p></h2>
+    <p>Pacific Commons is a master-planned, mixed-use development consisting of 840 acres in Fremont, California currently in development by Catellus Development Corporation. It sits on part of the site of what was once the Fremont Dragstrip/Baylands Raceway Park and the Skyways Airport, a glider field. Given Fremont's location at the Northern tip of Silicon Valley, Catellus originally planned the development to house primarily high-tech research and development operations with a moderate amount of retail and restaurant space, a convention center, and a hotel. Until the dot-com bubble, Cisco Systems had planned to relocate its headquarters to Pacific Commons and consolidate substantially all of its San Francisco Bay Area operations to a large campus in Pacific Commons, which would have consisted of several high-rise office buildings. With the downturn in the technology industry, however, Cisco put its plans on hold. While it is unclear whether Cisco will ultimately relocate its headquarters to Fremont, in 2011 Cisco purchased 149 acres of vacant land in Fremont, most of it from Catellus, fueling speculation that, at some point, it will move forward with its headquarters move to Pacific Commons.</p>
+    <p>Pacific Commons is a master-planned, mixed-use development consisting of 840 acres in Fremont, California currently in development by Catellus Development Corporation. It sits on part of the site of what was once the Fremont Dragstrip/Baylands Raceway Park and the Skyways Airport, a glider field. Given Fremont's location at the Northern tip of Silicon Valley, Catellus originally planned the development to house primarily high-tech research and development operations with a moderate amount of retail and restaurant space, a convention center, and a hotel. Until the dot-com bubble, Cisco Systems had planned to relocate its headquarters to Pacific Commons and consolidate substantially all of its San Francisco Bay Area operations to a large campus in Pacific Commons, which would have consisted of several high-rise office buildings. With the downturn in the technology industry, however, Cisco put its plans on hold. While it is unclear whether Cisco will ultimately relocate its headquarters to Fremont, in 2011 Cisco purchased 149 acres of vacant land in Fremont, most of it from Catellus, fueling speculation that, at some point, it will move forward with its headquarters move to Pacific Commons.</p>
+      <a><img src="https://www.eastbaytimes.com/wp-content/uploads/2017/06/arg-pacific-0623-14.jpg?w=620" alt="The Block" width="700" height="500"class="center"></a>
+  <h3><p style="text-align: center;"">Restaurants and Stores</p></h3>
+      <a><img src="http://photos.cinematreasures.org/production/photos/105413/1407641857/large.jpg?1407641857" alt="Century 25" width="700" height="500"class="center"></a>
+      <a><img src="http://www.catellus.com/uploads/projects/pacific-commons-summary.jpg" alt="DSW" width="700" height="600"class="center"></a>
+      <a><img src="https://media-cdn.tripadvisor.com/media/photo-s/0c/98/14/59/dog-haus-pacific-commons.jpg" alt="Dog Haus" width="700" height="500"class="center"></a>
