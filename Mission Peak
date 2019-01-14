@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<font color="white">
+   <title>
+		Mission Peak
+   </title>
+  </head>
+  <body background="https://wallpaper-house.com/data/out/9/wallpaper2you_362739.jpg">
+	<h1>
+	<p style="
+	text-transform: uppercase;
+	text-align: center;""
+	>
+		Mission Peak
+	</p>
+	</h1>
+
+		<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+
+
+<div class="navbar">
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Index.html">Home</a>
+  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/History.html">History</a>
+  <a href= "file:///Users/juniortoriano/Desktop/Website%20Project/Gallery.html"> Gallery</a>
+  <div class="dropdown">
+    <button class="dropbtn">Notable Places
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Coyote.html">Coyote Hills</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/Niles.html">Downtown Niles</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MissionPeak.html">Mission Peak</a>
+  	  <a href="file:///Users/juniortoriano/Desktop/Website%20Project/MSJ.html">Mission San Jose Church</a>
+      <a href="file:///Users/juniortoriano/Desktop/Website%20Project/PacCom.html">Pacific Commons</a>
+    </div>
+  </div>
+</div>
+
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+	<h1><p style="text-align: center;"">Mission Peak</p></h1>
+    <p>Mission Peak is an amazing place in Fremont and it is arguably one of the most popular places to visit in the entire Bay Area. The peak is a literal mountain that is located in the southern region of the city. It does not soely life only in Fremont, as it extends into areas of Hayward and Sunol also. Still, it is a great place to get exercise by hiking, as well as challenging your friends to race to the top of this treacherous mountain!</p>
+      <a><img src="https://i0.wp.com/socalhiker.net/wp-content/uploads/2017/11/The-one-section-of-rough-trail.jpg?resize=700%2C525&ssl=1" alt="Mission Peak" width="600" height="500"class="center"></a>
+  <h2><p style="text-align: center;"">About the Park</p></h2>
+    <p>Rising steeply to the east of the city of Fremont, Mission and Monument peaks form a dramatic backdrop to the South Bay. The determined and conditioned hiker who reaches the top of Mission Peak will be rewarded with views of Mount Hamilton to the south, the Santa Cruz Mountains to the west, Mt. Tamalpais to the north, and Mt. Diablo and the Sierra Nevada to the northeast. Hawks and vultures share the summit airspace with sailplanes riding the thermals, and a down-to-earth herd of feral goats roams the cliffs.</p>
+    <p>This well used park, particularly on weekends, with hundreds of visitors attempting the 3-plus-mile hike to Mission Peak. About five hours are required to reach the summit and return. This parkland's 3,000 acres are accessible from parking lots at Ohlone College (slightly longer hike, but more gradual ascent; plenty of parking on weekends) or from a small staging area at the east end of Stanford Avenue in Fremont (steep climb to the summit; parking lot is extremely congested on weekends). There is no access to the park from Mill Creek Road.</p>
+      <a><img src="https://baynature.org/wp-content/uploads/2014/10/IMG_7713-1024x682.jpg" alt="Mission Peak" width="700" height="500"class="center"></a>
+    <p>The Peak Trail from Ohlone College is an enjoyable hike to the summit that passes a horse corral and through shaded woodlands and open grasslands. This trail is part of the Bay Area Ridge Trail, a planned 550+-mile multi-use trail (currently over 330 miles are complete) along the hill and mountain ridgelines ringing the San Francisco Bay Area. The college charges a $4 parking fee Monday through Saturday when school is in session. Parking is free on holidays, after 5 p.m. on Saturdays, and on Sundays. Parking lot vending machines take cash or credit cards.</p>
+    <p>The Stanford Avenue staging area is also the western access to the Ohlone Wilderness Trail, a 29-mile hiking and riding trail through some of southern Alameda County's most beautiful wilderness.</p>
+  <h3><p style="text-align: center;"">Tips for the Hike</p></h3>
+    <p>Water, Water, Water: Bring at least 2 liters of water for you and your dog. Make sure your companions also have enough water. Offer water to your dog every time you drink some.</p>
+    <p>Be Sun Smart: Wear a hat and generously re-apply sunscreen. Avoid hiking in the middle of the day in the summer months. </p>
+    <p>Dog Health and Safety: Dogs are much more susceptible to heat stroke than humans. Hike with your dog only in cooler temperatures. Take rests and offer water frequently. Watch for signs of heatstroke, which include heavy panting, dry gums, weakness, and inattention.</p>
+    <p>Sturdy Footwear: Hiking boots and athletic shoes with ankle support are recommended! Thick socks help minimize blisters and absorb moisture. Do not wear flip-flops, sandals or high heels. </p>
+      <a><img src="https://www.ebparks.org/images/Assets/_Nav_Categories/Parks/Mission%20Peak/MP_Trail_Restoration_Graphic.jpg" alt="Mission Peak" width="700" height="500"class="center"></a>
