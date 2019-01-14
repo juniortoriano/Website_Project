@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<font color="white">
+   <title>
+		Coyote Hills
+   </title>
+  </head>
+  <body background="https://wallpaper-house.com/data/out/9/wallpaper2you_362739.jpg">
+	<h1>
+	<p style="
+	text-transform: uppercase;
+	text-align: center;""
+	>
+		Coyote Hills
+	</p>
+	</h1>
+
+		<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+
+
+<div class="navbar">
+  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Index.html#news">Home</a>
+  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/More%20about%20me.html">More about me</a>
+  <a href= "file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Gallery.html"> Gallery </a>
+  <div class="dropdown">
+    <button class="dropbtn">Units Covered
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%202.html">Unit 2</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%203.html">Unit 3</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%204.html">Unit 4</a>
+  	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%205.html">Unit 5</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%206.html">Unit 6</a>
+	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%207.html">Unit 7</a>
+    </div>
+  </div> 
+</div>
+
+
+<!--Change the above internal css so that it corresponds to the other pages--></p>
+
+
+
+
+
+<h1><p style="text-align: center;"">Coyote Hills</p></h1>
+    <p>Coyote Hills is one of the most popular destinations to visit if one were to come to Fremont. It is located in the northern area of the city. Coyote Hills is runs along the the San Fracisco Bay, creating an opening for the Dumbarton Bridge and the many commuters that travel both in and out of Fremont. The fact that Coyote Hills touches the waters of the Bay Area explains why Fremont is part of the Bay. For tourists, they are welcome to come and visit to walk alongside the water where there are many trails and hills to bike or walk.</p>
+        <a href="https://goldengateaudubon.org/wp-content/uploads/CH-Green-Hills-JerryTing.jpg"><img src="https://goldengateaudubon.org/wp-content/uploads/CH-Green-Hills-JerryTing.jpg" alt="Coyote Hills" width="600" height="475"class="center"></a>
+<h2><p style="text-align: center;"">History</p></h2>
+    <p>The East Bay area's original inhabitants were the ancestors of the Ohlone Indians, hunters, and gatherers whose skills enabled them to live well off the land's natural bounty. In those days, tule elk roamed the land, condors soared overhead, and sea otters and fish were abundant in the Bay. At Coyote Hills Regional Park, some of this rich wetland is preserved, along with 2,000-year old Tuibun Ohlone Indian shellmound sites with fascinating archaeological resources.</p>
+    <p>The park's rich and varied history also includes Mission and settler ranching and farming activities, salt production, a duck hunting club, a dairy, rock quarrying, a military NIKE missile site, and a biosonar research facility. Now a Regional Park, this area is preserved for recreation, and educational and nature experiences for all to enjoy.</p>
+        <a href="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiG_fiF5-zfAhXvJTQIHbXPDPEQjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FCoyote_Hills_Regional_Park&psig=AOvVaw2SaA4g4Idjh9pgln6qu9o_&ust=1547539237051629"><img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Salt_marsh%2C_Coyote_Hills.jpg" alt="Coyote Hills" width="600" height="475"class="center"></a>
+<h2><p style="text-align: center;"">Wildlife</p></h2>
+    <p>Coyote Hills is also home to a large amount of wildlife. for instance the Sierran Tree Frog is a small green frog that is native to the area and can be seen hiding in some trees. Another animal is the Northern Flicker. This is a small bird that nests high up in the trees. If you are visiting Coyote Hills, be patient and you can see these beauties and many more in the wild. Still, it is most important that you respect their habitat and do not disturb their living conditions!</p>
+        <a href="https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiyx46H5ezfAhWlKH0KHaQADOgQjRx6BAgBEAU&url=https%3A%2F%2Fnas.er.usgs.gov%2Fqueries%2Ffactsheet.aspx%3FSpeciesID%3D2780&psig=AOvVaw3MlMGpgA6H-y3CDVzeNNrw&ust=1547538700715755"><img src="https://nas.er.usgs.gov/XIMAGESERVERX/2012/20120117102847.jpg" alt="Sierran Treefrog" width="600" height="475"class="center"></a>
+        <a href="https://www.allaboutbirds.org/guide/Northern_Flicker/id"><img src="https://d1ia71hq4oe7pn.cloudfront.net/photo/60403261-480px.jpg" alt="Coyote Hills" width="600" height="475"class="center"></a>
