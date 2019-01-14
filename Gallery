@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<font color="white">
+   <title>
+		Gallery
+   </title>
+  </head>
+  <body background="https://wallpaper-house.com/data/out/9/wallpaper2you_362739.jpg">
+	<h1>
+	<p style="
+	text-transform: uppercase;
+	text-align: center;""
+	>
+		Gallery
+	</p>
+	</h1>
+
+		<style>
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: red;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+</head>
+<body>
+
+<p id="demo"></p>
+
+<script>
+var d = new Date();
+document.getElementById("demo").innerHTML = d;
+</script>
+
+
+<div class="navbar">
+  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Index.html#news">Home</a>
+  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/More%20about%20me.html">More about me</a>
+  <a href= "file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Gallery.html"> Gallery </a>  
+  <div class="dropdown">
+    <button class="dropbtn">Units Covered
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%202.html">Unit 2</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%203.html">Unit 3</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%204.html">Unit 4</a>
+  	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%205.html">Unit 5</a>
+      <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%206.html">Unit 6</a>
+	  <a href="file://ahsfs01.american.fmtusd.org/studentshomefolders$/2019/10015335/Documents/Portfolio_JuniorToriano/Unit%207.html">Unit 7</a>
+    </div>
+  </div> 
+</div>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+body {font-family: Verdana, sans-serif; margin:0}
+.mySlides {display: none}
+img {vertical-align: middle;}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/5 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4} 
+  to {opacity: 1}
+}
+
+/* On smaller screens, decrease text size */
+@media only screen and (max-width: 300px) {
+  .prev, .next,.text {font-size: 11px}
+}
+</style>
+</head>
+<body>
+
+<div class="slideshow-container">
+
+<div class="mySlides fade">
+  <div class="numbertext">1 / 5</div>
+  <img src="https://cdn.thecrazytourist.com/wp-content/uploads/2016/12/Don-Edwards-San-Francisco-Bay-National-Wildlife-Refuge.jpg" style="width:100%">
+  <div class="text">Done Edwards</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">2 / 5</div>
+  <img src="https://images.hgmsites.net/med/tesla-factory-fremont-california_100491655_m.jpg" style="width:100%">
+  <div class="text">TESLA</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">3 / 5</div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Lake_Elizabeth_in_Fremont%2C_California_%28cropped%29.JPG" style="width:100%">
+  <div class="text">Lake Elizabeth</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">4 / 5</div>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTESf5KvAZu3nW_nFg-BMgwJAro3BNwCuLmYxG8JblA14UgmCEEMw" style="width:100%">
+  <div class="text">Fremont Hub</div>
+</div>
+
+<div class="mySlides fade">
+  <div class="numbertext">5 / 5</div>
+  <img src="https://i.ytimg.com/vi/P0557v4M0PQ/maxresdefault.jpg" style="width:100%">
+  <div class="text">Mission San Jose</div>
+</div>
+
+<a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+<a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+</div>
+<br>
+
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span>
+  <span class="dot" onclick="currentSlide(4)"></span> 
+  <span class="dot" onclick="currentSlide(5)"></span>
+</div>
+
+<script>
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("dot");
+  if (n > slides.length) {slideIndex = 1}    
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " active";
+}
+</script>
